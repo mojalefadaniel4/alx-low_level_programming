@@ -1,7 +1,7 @@
-#Include <stdio.h>
+#include <stdio.h>
 /**
- * main - A program that prints a line with puts functio
- n
+ing program that prints a line with puts functio
+n
 * Return: o (success)
 *\
 int main(void)
