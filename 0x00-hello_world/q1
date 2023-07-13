@@ -16,17 +16,7 @@ git commit -m "$fname"
 git push
 else
 
-echo -e  "#include <stdio.h>
-
-/**
- * main - Entry point
- *
- * Return: Always 0 (Success)
- */
-int main(void)
-{
-    return (0);
-}" > $fname
+echo -e  "New File" > $fname
 
 #Execute file
 chmod u+x $fname
