@@ -3,10 +3,10 @@
 ing program that prints a line with puts functio
 n
 * Return: o (success)
-*\
+**/
+
 int main(void)
 {
-puts ("\"Programming is like building a multilingual puzzl
-e");
+	puts ("Programming is like building a multilingual puzzle");
 return (0);
 }
