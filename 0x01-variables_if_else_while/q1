@@ -16,7 +16,7 @@ git commit -m "$fname"
 git push
 else
 
-echo -e  "#include < stdio.h >
+echo -e  "#include <stdio.h>
 
 /**
  * main - Entry point
