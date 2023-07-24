@@ -21,3 +21,6 @@ void print_rev(char *strn)
 		_putchar(*strn);
 		strn--;
 	}
+
+	_putchar('\n');
+}
